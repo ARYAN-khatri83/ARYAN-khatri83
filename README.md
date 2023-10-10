@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img align = “right” alt = “coding” width = “40” src = “https://user-images.githubusercontent…”>
+<img align = “right” alt = “coding” width = “40” src = “https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1WCgGmNL1OQxP0ld61b1tS&ust=1697048469284000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDqjKuM7IEDFQAAAAAdAAAAABAE”>
 
 <a href="https://linkedin.com/in/aryan khatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan khatri" height="30" width="40" /></a>
 <a href="https://kaggle.com/aryan khatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aryan khatri" height="30" width="40" /></a>
