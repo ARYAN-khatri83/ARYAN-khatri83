@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-khatri83&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-khatri83" /> </p>
 
-- 🌱 I’m currently learning  DSA , Angular
+- 🌱 I’m currently learning  DSA ,Next.js
 
 - 💬 Ask me about **AI/ML**
 
