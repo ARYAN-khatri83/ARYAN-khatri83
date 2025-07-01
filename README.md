@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **AI/ML**
 
-- 📫 How to reach me **aryan.khatri2021@vitstudent.ac.in**
+- 📫 How to reach me **khatriaryan791@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
