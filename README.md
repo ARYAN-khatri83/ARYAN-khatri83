@@ -10,8 +10,7 @@
 - 📫 How to reach me **khatriaryan791@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<img align = “right” alt = “coding” width = “40” src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F161921919%2FPortrait-animated-gif&psig=AOvVaw1Oq5BAakseQElk0tO2emoi&ust=1725387344323000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCw1_HupIgDFQAAAAAdAAAAABAE">
+
 
 <a href="https://linkedin.com/in/aryan khatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan khatri" height="30" width="40" /></a>
 <a href="https://kaggle.com/aryan khatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aryan khatri" height="30" width="40" /></a>
